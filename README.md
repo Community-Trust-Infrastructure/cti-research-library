@@ -35,7 +35,7 @@ No build tools or dependencies are required.
 
 ## Contributions
 
-Suggest sources or corrections using [GitHub Issues](https://github.com/Community-Trust-Infrastructure/cti-research-library/issues/new). See [Methodology](methodology.html).
+We invite research, critical perspectives, alternative approaches, case studies and architectural challenges. Read [Contributing to CTI](CONTRIBUTING.md) for separate pathways for literature suggestions, architecture discussions and field learning, as well as stewardship, review, consent and attribution safeguards. Open a [GitHub Issue](https://github.com/Community-Trust-Infrastructure/cti-research-library/issues/new) to get started. Inclusion in the literature index does not imply endorsement or incorporation into the CTI architecture. See [Methodology](methodology.html).
 
 No code/content license has been selected yet. External research remains the property of its original publishers.
 
