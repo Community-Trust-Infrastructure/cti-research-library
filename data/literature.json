@@ -1,19 +1,23 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "updated": "2026-11-10",
-  "note": "Expanded from CTI Literature Index V2.0 source register; includes source-linked publications and selected institutional documentation. Exact citations and original links require continuing review. Separate field cases and monetary research branch are maintained outside this directory.",
+  "note": "Research entries aligned to the 11-category CTI taxonomy. Original topic labels retained as secondary topics. Source metadata is not universally verified; review_status flags uncertainty.",
   "resources": [
     {
       "id": "cti-001",
       "author": "Canadian Securities Administrators",
       "title": "Project Tokenization: Phase 1 Findings Report",
       "year": "2026",
-      "category": "Tokenization & Capital Markets",
+      "category": "Reference Architecture & Interoperability",
       "type": "Regulatory research",
       "region": "Canada",
       "url": "https://www.securities-administrators.ca/csa-activities/csa-finhub/collaboratory/fall-2025-theme-tokenization/",
       "summary": "Examines tokenized capital markets, ownership, custody, interoperability and regulatory considerations.",
-      "cti_relevance": "Shows why tokenization alone does not establish enforceable rights, accountable governance or trustworthy data."
+      "cti_relevance": "Shows why tokenization alone does not establish enforceable rights, accountable governance or trustworthy data.",
+      "topics": [
+        "Tokenization & Capital Markets"
+      ],
+      "review_status": "bibliographic review pending"
     },
     {
       "id": "cti-002",
@@ -25,7 +29,9 @@
       "region": "Global",
       "url": "https://ebizprd.worldbank.org/wfa/funds_chain_doc.html?pageAccess=ba",
       "summary": "Explores traceability and documentation of development funding through digital infrastructure.",
-      "cti_relevance": "A comparative example for evidence provenance, accountability and transparency in capital flows."
+      "cti_relevance": "A comparative example for evidence provenance, accountability and transparency in capital flows.",
+      "review_status": "bibliographic review pending",
+      "topics": []
     },
     {
       "id": "cti-003",
@@ -37,43 +43,58 @@
       "region": "Hong Kong",
       "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-5/",
       "summary": "Describes developments in tokenized financial infrastructure and settlement.",
-      "cti_relevance": "Useful comparison for sovereign settlement optionality and institutional coordination."
+      "cti_relevance": "Useful comparison for sovereign settlement optionality and institutional coordination.",
+      "review_status": "bibliographic review pending",
+      "topics": []
     },
     {
       "id": "cti-004",
       "author": "W3C",
       "title": "Verifiable Credentials Data Model v2.0",
       "year": "2025",
-      "category": "Trust, Identity & Attestations",
+      "category": "Trust, Evidence & Verification",
       "type": "Technical standard",
       "region": "Global",
       "url": "https://www.w3.org/TR/vc-data-model-2.0/",
       "summary": "Defines a standard data model for verifiable credentials and claims.",
-      "cti_relevance": "Offers a standards-based reference for portable attestations, without requiring a specific blockchain."
+      "cti_relevance": "Offers a standards-based reference for portable attestations, without requiring a specific blockchain.",
+      "topics": [
+        "Trust, Identity & Attestations"
+      ],
+      "review_status": "bibliographic review pending"
     },
     {
       "id": "cti-005",
       "author": "W3C",
       "title": "Decentralized Identifiers (DIDs) v1.0",
       "year": "2022",
-      "category": "Trust, Identity & Attestations",
+      "category": "Trust, Evidence & Verification",
       "type": "Technical standard",
       "region": "Global",
       "url": "https://www.w3.org/TR/did-core/",
       "summary": "Defines decentralized identifiers and their associated verification methods.",
-      "cti_relevance": "Relevant to identity portability and interoperable verification of actors and claims."
+      "cti_relevance": "Relevant to identity portability and interoperable verification of actors and claims.",
+      "topics": [
+        "Trust, Identity & Attestations"
+      ],
+      "review_status": "bibliographic review pending"
     },
     {
       "id": "cti-006",
       "author": "Skateistan",
       "title": "Skateboarding and the Olympics: Initial Results",
       "year": "2026",
-      "category": "Community Finance & Capital Allocation",
+      "category": "Community Finance & Philanthropy",
       "type": "Preliminary research",
       "region": "Global",
       "url": "https://about.skateistan.org/skateboarding-and-the-olympics-initial-results",
       "summary": "Early research exploring the relationship between skateboarding, Olympic participation and community sport.",
-      "cti_relevance": "Relevant to how community sport value is understood beyond elite performance metrics."
+      "cti_relevance": "Relevant to how community sport value is understood beyond elite performance metrics.",
+      "topics": [
+        "Community Finance & Capital Allocation",
+        "Adoption, Usability & Financial Inclusion"
+      ],
+      "review_status": "bibliographic review pending"
     },
     {
       "id": "cti-007",
@@ -85,7 +106,9 @@
       "region": "Canada",
       "url": "https://www.payments.ca/canadas-real-time-rail-launch-confirmed-budget-2026",
       "summary": "An update on Canada's domestic real-time payment infrastructure.",
-      "cti_relevance": "Supports consideration of Canadian-dollar settlement and technology-neutral trust systems."
+      "cti_relevance": "Supports consideration of Canadian-dollar settlement and technology-neutral trust systems.",
+      "review_status": "bibliographic review pending",
+      "topics": []
     },
     {
       "id": "cti-008",
@@ -97,7 +120,9 @@
       "region": "Global",
       "url": "https://newsroom.wf.com/news-releases/news-details/2026/Group-of-leading-international-financial-institutions-to-establish-stablecoin-enterprise/default.aspx",
       "summary": "Announces a collaborative institutional stablecoin initiative.",
-      "cti_relevance": "Raises questions about governance, settlement sovereignty and cross-border interoperability."
+      "cti_relevance": "Raises questions about governance, settlement sovereignty and cross-border interoperability.",
+      "review_status": "bibliographic review pending",
+      "topics": []
     },
     {
       "id": "cti-009",
@@ -109,7 +134,9 @@
       "region": "Global",
       "url": "https://ebizprd.worldbank.org/wfa/funds_chain_doc.html?pageAccess=ha",
       "summary": "Documentation related to the FundsChain initiative and its development-finance workflows.",
-      "cti_relevance": "Useful for comparing institutional evidence trails with community-generated signals and attestations."
+      "cti_relevance": "Useful for comparing institutional evidence trails with community-generated signals and attestations.",
+      "review_status": "bibliographic review pending",
+      "topics": []
     },
     {
       "id": "cti-010",
@@ -121,7 +148,9 @@
       "region": "Global",
       "url": "https://ebizprd.worldbank.org/wfa/funds_chain_doc.html?pageAccess=ca",
       "summary": "Additional published documentation associated with the FundsChain initiative.",
-      "cti_relevance": "Provides implementation context for accountable capital distribution and reporting."
+      "cti_relevance": "Provides implementation context for accountable capital distribution and reporting.",
+      "review_status": "bibliographic review pending",
+      "topics": []
     },
     {
       "id": "BIS-1377",
@@ -131,15 +160,15 @@
       "category": "Trust, Evidence & Verification",
       "type": "Working paper",
       "region": "International",
-      "url": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
+      "url": "https://www.bis.org/publ/work1377.htm",
       "summary": "BIS Working Paper 1377 examines how on-chain records require classification, aggregation and contextual interpretation before they can meaningfully measure economic activity.",
       "cti_relevance": "Technical verifiability does not imply valid inference. CTI must distinguish captured signals from interpreted and validated evidence.",
       "topics": [
         "DeFi, Yield & Programmable Capital",
         "CTI-Adjacent Theory"
       ],
-      "publication_date": "2026-09-15",
-      "review_status": "source-linked; bibliographic review pending"
+      "review_status": "primary source URL and bibliographic metadata require verification",
+      "date_precision": "year only pending source check"
     },
     {
       "id": "MONETA-2026",
@@ -193,7 +222,7 @@
         "Stablecoins & Payment Infrastructure"
       ],
       "publication_date": "2026-10-14",
-      "review_status": "source-linked; bibliographic review pending"
+      "review_status": "source and publication date checked"
     },
     {
       "id": "CHAINALYSIS-GLOBAL-2026",
@@ -229,7 +258,7 @@
         "CTI-Adjacent Theory"
       ],
       "publication_date": "2026-05-05",
-      "review_status": "source-linked; bibliographic review pending"
+      "review_status": "source and publication date checked"
     },
     {
       "id": "CIRCLE-CCTP",
