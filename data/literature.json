@@ -1,0 +1,127 @@
+{
+  "version": "0.1.0",
+  "updated": "2026-11-10",
+  "note": "Initial source-linked subset; bibliographic review and expansion pending.",
+  "resources": [
+    {
+      "id": "cti-001",
+      "author": "Canadian Securities Administrators",
+      "title": "Project Tokenization: Phase 1 Findings Report",
+      "year": "2026",
+      "category": "Tokenization & Capital Markets",
+      "type": "Regulatory research",
+      "region": "Canada",
+      "url": "https://www.securities-administrators.ca/csa-activities/csa-finhub/collaboratory/fall-2025-theme-tokenization/",
+      "summary": "Examines tokenized capital markets, ownership, custody, interoperability and regulatory considerations.",
+      "cti_relevance": "Shows why tokenization alone does not establish enforceable rights, accountable governance or trustworthy data."
+    },
+    {
+      "id": "cti-002",
+      "author": "World Bank",
+      "title": "FundsChain: blockchain-based development finance infrastructure",
+      "year": "2026",
+      "category": "Humanitarian & Development Finance",
+      "type": "Institutional initiative",
+      "region": "Global",
+      "url": "https://ebizprd.worldbank.org/wfa/funds_chain_doc.html?pageAccess=ba",
+      "summary": "Explores traceability and documentation of development funding through digital infrastructure.",
+      "cti_relevance": "A comparative example for evidence provenance, accountability and transparency in capital flows."
+    },
+    {
+      "id": "cti-003",
+      "author": "Hong Kong Monetary Authority",
+      "title": "Project Ensemble: tokenized settlement developments",
+      "year": "2026",
+      "category": "Stablecoins & Payment Infrastructure",
+      "type": "Regulatory announcement",
+      "region": "Hong Kong",
+      "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-5/",
+      "summary": "Describes developments in tokenized financial infrastructure and settlement.",
+      "cti_relevance": "Useful comparison for sovereign settlement optionality and institutional coordination."
+    },
+    {
+      "id": "cti-004",
+      "author": "W3C",
+      "title": "Verifiable Credentials Data Model v2.0",
+      "year": "2025",
+      "category": "Trust, Identity & Attestations",
+      "type": "Technical standard",
+      "region": "Global",
+      "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+      "summary": "Defines a standard data model for verifiable credentials and claims.",
+      "cti_relevance": "Offers a standards-based reference for portable attestations, without requiring a specific blockchain."
+    },
+    {
+      "id": "cti-005",
+      "author": "W3C",
+      "title": "Decentralized Identifiers (DIDs) v1.0",
+      "year": "2022",
+      "category": "Trust, Identity & Attestations",
+      "type": "Technical standard",
+      "region": "Global",
+      "url": "https://www.w3.org/TR/did-core/",
+      "summary": "Defines decentralized identifiers and their associated verification methods.",
+      "cti_relevance": "Relevant to identity portability and interoperable verification of actors and claims."
+    },
+    {
+      "id": "cti-006",
+      "author": "Skateistan",
+      "title": "Skateboarding and the Olympics: Initial Results",
+      "year": "2026",
+      "category": "Community Finance & Capital Allocation",
+      "type": "Preliminary research",
+      "region": "Global",
+      "url": "https://about.skateistan.org/skateboarding-and-the-olympics-initial-results",
+      "summary": "Early research exploring the relationship between skateboarding, Olympic participation and community sport.",
+      "cti_relevance": "Relevant to how community sport value is understood beyond elite performance metrics."
+    },
+    {
+      "id": "cti-007",
+      "author": "Payments Canada",
+      "title": "Canada's Real-Time Rail launch confirmed in Budget 2026",
+      "year": "2026",
+      "category": "Canadian Policy & Monetary Sovereignty",
+      "type": "Institutional announcement",
+      "region": "Canada",
+      "url": "https://www.payments.ca/canadas-real-time-rail-launch-confirmed-budget-2026",
+      "summary": "An update on Canada's domestic real-time payment infrastructure.",
+      "cti_relevance": "Supports consideration of Canadian-dollar settlement and technology-neutral trust systems."
+    },
+    {
+      "id": "cti-008",
+      "author": "Wells Fargo Newsroom",
+      "title": "International financial institutions establish stablecoin enterprise",
+      "year": "2026",
+      "category": "Stablecoins & Payment Infrastructure",
+      "type": "Institutional announcement",
+      "region": "Global",
+      "url": "https://newsroom.wf.com/news-releases/news-details/2026/Group-of-leading-international-financial-institutions-to-establish-stablecoin-enterprise/default.aspx",
+      "summary": "Announces a collaborative institutional stablecoin initiative.",
+      "cti_relevance": "Raises questions about governance, settlement sovereignty and cross-border interoperability."
+    },
+    {
+      "id": "cti-009",
+      "author": "World Bank",
+      "title": "FundsChain documentation: implementation resources",
+      "year": "2026",
+      "category": "Humanitarian & Development Finance",
+      "type": "Institutional resource",
+      "region": "Global",
+      "url": "https://ebizprd.worldbank.org/wfa/funds_chain_doc.html?pageAccess=ha",
+      "summary": "Documentation related to the FundsChain initiative and its development-finance workflows.",
+      "cti_relevance": "Useful for comparing institutional evidence trails with community-generated signals and attestations."
+    },
+    {
+      "id": "cti-010",
+      "author": "World Bank",
+      "title": "FundsChain documentation: case resources",
+      "year": "2026",
+      "category": "Humanitarian & Development Finance",
+      "type": "Institutional resource",
+      "region": "Global",
+      "url": "https://ebizprd.worldbank.org/wfa/funds_chain_doc.html?pageAccess=ca",
+      "summary": "Additional published documentation associated with the FundsChain initiative.",
+      "cti_relevance": "Provides implementation context for accountable capital distribution and reporting."
+    }
+  ]
+}
