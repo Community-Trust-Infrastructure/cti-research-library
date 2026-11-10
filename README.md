@@ -9,7 +9,7 @@ A public, searchable and version-controlled literature index maintained by **Com
 
 The library explores research on community finance, trust, attestations, governance, tokenization, digital payments, AI and accountable capital allocation. It is inspired by the usability of [Design Reservoir](https://brandiejanow.github.io/design-reservoir/) but uses its own design and implementation.
 
-**Version 0.1:** A starter collection of 10 source-linked records. It is not yet the complete historical CTI Literature Index. Summaries and CTI relevance are editorial notes; inclusion does not imply endorsement by the cited institutions. Some dates are recorded by year pending detailed citation review.
+**Version 0.2:** 21 source-linked research records, with the 11-category CTI Literature Index v2.0 taxonomy preserved in `data/taxonomy.json`. It is not yet the complete historical CTI Literature Index. Summaries and CTI relevance are editorial notes; inclusion does not imply endorsement by the cited institutions. Some dates are recorded by year pending detailed citation review.
 
 ## Website features
 
@@ -21,7 +21,7 @@ The library explores research on community finance, trust, attestations, governa
 
 ## Data
 
-The master file is [data/literature.json](data/literature.json). Each record has a stable ID, title, author/institution, year, category, resource type, region, URL, summary and CTI relevance.
+The searchable master file is [data/literature.json](data/literature.json). Related registers are [applied cases](data/applied-cases.json), [Canada–EU monetary interoperability](data/canada-eu-research.json), and [the 11-category taxonomy](data/taxonomy.json). These are intentionally separate from the public literature directory until reviewed.  Each record has a stable ID, title, author/institution, year, category, resource type, region, URL, summary and CTI relevance.
 
 To add a source, insert a new object in the `resources` array. Validate the original link and publication metadata first. Avoid copying long copyrighted passages; write original summaries.
 
