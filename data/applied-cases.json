@@ -1,0 +1,46 @@
+{
+  "version": "0.1",
+  "editorial_note": "Practice-based register, separate from published literature. Observations are not independently audited; do not present them as measured outcomes.",
+  "cases": [
+    {
+      "id": "aifs-sarreya",
+      "name": "AIFS × Sarreya — Olympism365 Tech365",
+      "location": "Somaliland",
+      "period": "2025–2026",
+      "status": "Completed pilot; field findings reported internally",
+      "observations": "Community governance, relational off-ramping, WhatsApp-based signal capture, local stewardship, financial exclusion and transaction risk.",
+      "research_question": "How can community-authorized evidence and local financial relationships support accountable access to capital?",
+      "limitations": "Field report not independently audited. Avoid implying that faster payment alone validates community trust."
+    },
+    {
+      "id": "sportfi",
+      "name": "SportFi — Women Win / AIFS",
+      "location": "Somaliland and Bolivia",
+      "period": "2026–2027",
+      "status": "Pilot underway",
+      "observations": "Explores community-generated signals, steward attestations and yield-funded community distributions.",
+      "research_question": "Can validated community activity improve funder confidence and support more responsive allocation decisions?",
+      "limitations": "No demonstrated change in funder allocation decisions or generalizable impact claims yet."
+    },
+    {
+      "id": "ayni",
+      "name": "Ayni Skate Project",
+      "location": "Bolivia",
+      "period": "2026–2027",
+      "status": "SportFi community",
+      "observations": "Second context for steward attestations and participation signals.",
+      "research_question": "Are trust processes portable across contexts without imposing Sarreya's governance or cultural assumptions?",
+      "limitations": "Pilot research question, not a completed evaluation."
+    },
+    {
+      "id": "hoops-sagrado",
+      "name": "Hoops Sagrado",
+      "location": "Guatemala",
+      "period": "Exploratory",
+      "status": "Proposed application",
+      "observations": "Potential QR participation records and steward confirmation in community basketball.",
+      "research_question": "Can low-friction signals produce useful evidence without intrusive identity requirements?",
+      "limitations": "Proposed experiment only; no outcomes claimed."
+    }
+  ]
+}
