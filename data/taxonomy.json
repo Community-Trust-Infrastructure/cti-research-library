@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "research_categories": [
+    "Trust, Evidence & Verification",
+    "Reference Architecture & Interoperability",
+    "Governance & Community Autonomy",
+    "AI Agents & Autonomous Finance",
+    "Stablecoins & Payment Infrastructure",
+    "Adoption, Usability & Financial Inclusion",
+    "DeFi, Yield & Programmable Capital",
+    "Community Finance & Philanthropy",
+    "Humanitarian & Development Finance",
+    "Canadian Policy & Monetary Sovereignty",
+    "CTI-Adjacent Theory"
+  ],
+  "editorial_note": "The 11-category taxonomy comes from CTI Literature Index v2.0. Earlier entries retain their original category until a dedicated normalization pass. Applied field cases and Canada–EU monetary research are separate registers."
+}
