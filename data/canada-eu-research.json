@@ -1,0 +1,32 @@
+{
+  "name": "Canada–EU Monetary Interoperability",
+  "status": "Separate research hypothesis; not a proven CTI outcome",
+  "proposition": "Explore whether independently governed sovereign monetary systems can interoperate through tokenized deposits, assets and shared settlement infrastructure without monetary union.",
+  "boundary": "CTI's architectural interest is in portable evidence and trust context across institutions. CTI is not responsible for proving a macroeconomic case for Canada–EU monetary integration.",
+  "source_register": [
+    {
+      "name": "KPMG Canada — Stablecoins and Tokenization",
+      "status": "linked in main index"
+    },
+    {
+      "name": "Tetra / Canadian dollar stablecoin developments",
+      "status": "source verification required"
+    },
+    {
+      "name": "Bank of Canada payments and digital money research",
+      "status": "specific publication selection required"
+    },
+    {
+      "name": "European digital-money and settlement research",
+      "status": "specific publication selection required"
+    },
+    {
+      "name": "Quant / Dentsu Soken tokenized deposits",
+      "status": "primary announcement link required"
+    },
+    {
+      "name": "Canton / Broadridge tokenized repo infrastructure",
+      "status": "primary documentation and metrics verification required"
+    }
+  ]
+}
