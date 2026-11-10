@@ -154,20 +154,20 @@
     },
     {
       "id": "BIS-1377",
-      "author": "Timothy Aerts, Ronald Heijmans, Jan Paulick and Violeta Vuletic",
+      "author": "BIS (author details pending verification)",
       "title": "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
       "year": "2026",
       "category": "Trust, Evidence & Verification",
       "type": "Working paper",
       "region": "International",
-      "url": "https://www.bis.org/publ/work1377.htm",
-      "summary": "BIS Working Paper 1377 examines how on-chain records require classification, aggregation and contextual interpretation before they can meaningfully measure economic activity.",
+      "url": "https://www.bis.org/publications",
+      "summary": "Working-paper reference in the CTI research register concerning the interpretation and measurement of on-chain activity; exact bibliographic details need confirmation.",
       "cti_relevance": "Technical verifiability does not imply valid inference. CTI must distinguish captured signals from interpreted and validated evidence.",
       "topics": [
         "DeFi, Yield & Programmable Capital",
         "CTI-Adjacent Theory"
       ],
-      "review_status": "primary source URL and bibliographic metadata require verification",
+      "review_status": "exact paper link and authors unverified; links to BIS publications directory",
       "date_precision": "year only pending source check"
     },
     {
