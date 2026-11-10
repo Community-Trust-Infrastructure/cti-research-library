@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "updated": "2026-11-10",
-  "note": "Research entries aligned to the 11-category CTI taxonomy. Original topic labels retained as secondary topics. Source metadata is not universally verified; review_status flags uncertainty.",
+  "note": "Research entries aligned to the 11-category CTI taxonomy. Original topic labels retained as secondary topics. Source metadata is not universally verified; review_status flags uncertainty. Four directory entries now link to analytical research notes; Canton/Broadridge has a separate working note pending source verification and a formal bibliography entry.",
   "resources": [
     {
       "id": "cti-001",
@@ -17,7 +17,8 @@
       "topics": [
         "Tokenization & Capital Markets"
       ],
-      "review_status": "bibliographic review pending"
+      "review_status": "bibliographic review pending",
+      "research_note": "research-notes/csa-tokenization.md"
     },
     {
       "id": "cti-002",
@@ -168,7 +169,8 @@
         "CTI-Adjacent Theory"
       ],
       "review_status": "exact paper link and authors unverified; links to BIS publications directory",
-      "date_precision": "year only pending source check"
+      "date_precision": "year only pending source check",
+      "research_note": "research-notes/bis-measurement.md"
     },
     {
       "id": "MONETA-2026",
@@ -186,7 +188,8 @@
         "CTI-Adjacent Theory"
       ],
       "publication_date": "2026-07-18",
-      "review_status": "source-linked; bibliographic review pending"
+      "review_status": "source-linked; bibliographic review pending",
+      "research_note": "research-notes/moneta-adoption.md"
     },
     {
       "id": "KPMG-CANADA-2026",
@@ -292,7 +295,8 @@
         "Reference Architecture & Interoperability"
       ],
       "date_precision": "year or undetermined; review required",
-      "review_status": "source-linked; bibliographic review pending"
+      "review_status": "source-linked; bibliographic review pending",
+      "research_note": "research-notes/ens-governance.md"
     },
     {
       "id": "UNICEF-FEMTECH",
