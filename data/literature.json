@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "updated": "2026-11-10",
-  "note": "Initial source-linked subset; bibliographic review and expansion pending.",
+  "note": "Expanded from CTI Literature Index V2.0 source register; includes source-linked publications and selected institutional documentation. Exact citations and original links require continuing review. Separate field cases and monetary research branch are maintained outside this directory.",
   "resources": [
     {
       "id": "cti-001",
@@ -122,6 +122,200 @@
       "url": "https://ebizprd.worldbank.org/wfa/funds_chain_doc.html?pageAccess=ca",
       "summary": "Additional published documentation associated with the FundsChain initiative.",
       "cti_relevance": "Provides implementation context for accountable capital distribution and reporting."
+    },
+    {
+      "id": "BIS-1377",
+      "author": "Timothy Aerts, Ronald Heijmans, Jan Paulick and Violeta Vuletic",
+      "title": "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
+      "year": "2026",
+      "category": "Trust, Evidence & Verification",
+      "type": "Working paper",
+      "region": "International",
+      "url": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
+      "summary": "BIS Working Paper 1377 examines how on-chain records require classification, aggregation and contextual interpretation before they can meaningfully measure economic activity.",
+      "cti_relevance": "Technical verifiability does not imply valid inference. CTI must distinguish captured signals from interpreted and validated evidence.",
+      "topics": [
+        "DeFi, Yield & Programmable Capital",
+        "CTI-Adjacent Theory"
+      ],
+      "publication_date": "2026-09-15",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "MONETA-2026",
+      "author": "Michał Moneta",
+      "title": "Stablecoin Adoption in Emerging Markets: A TAM-Based Model of Digital Finance Use",
+      "year": "2026",
+      "category": "Adoption, Usability & Financial Inclusion",
+      "type": "Conceptual working paper",
+      "region": "Emerging markets",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7139979",
+      "summary": "A conceptual synthesis of 73 sources proposing seven determinants and nine propositions about adoption, including trust, literacy, infrastructure and the intention–use gap; not a causal empirical test.",
+      "cti_relevance": "Demonstrates why a payment rail's technical availability is not evidence of usability, local acceptance or sustained participation.",
+      "topics": [
+        "Stablecoins & Payment Infrastructure",
+        "CTI-Adjacent Theory"
+      ],
+      "publication_date": "2026-07-18",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "KPMG-CANADA-2026",
+      "author": "KPMG Canada",
+      "title": "The strategic role of stablecoins and tokenization for Canadian institutions",
+      "year": "2026",
+      "category": "Canadian Policy & Monetary Sovereignty",
+      "type": "Institutional report",
+      "region": "Canada",
+      "url": "https://kpmg.com/ca/en/insights/2026/08/stablecoins-and-tokenization-for-canadian-institutions.html",
+      "summary": "Reviews institutional tokenization, stablecoin use cases and regulatory questions; reports that roughly 99.7% of stablecoins are USD-denominated.",
+      "cti_relevance": "Provides a monetary-sovereignty context for CTI's settlement-agnostic approach, without confusing monetary representation with trust validation.",
+      "topics": [
+        "Stablecoins & Payment Infrastructure",
+        "Reference Architecture & Interoperability"
+      ],
+      "publication_date": "2026-08",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "CHAINALYSIS-NA-2026",
+      "author": "Chainalysis",
+      "title": "North America: Inside the Growth of Agentic Commerce",
+      "year": "2026",
+      "category": "AI Agents & Autonomous Finance",
+      "type": "Industry research",
+      "region": "North America",
+      "url": "https://www.chainalysis.com/blog/north-america-crypto-adoption-2026/",
+      "summary": "Analyzes regional crypto activity, dollar stablecoins, Canadian cross-border remittances and emerging agent-initiated payments; methodology and vendor interests should be considered.",
+      "cti_relevance": "Raises the distinction between authorizing a machine to execute a transaction and having valid evidence to justify that transaction.",
+      "topics": [
+        "Canadian Policy & Monetary Sovereignty",
+        "Stablecoins & Payment Infrastructure"
+      ],
+      "publication_date": "2026-10-14",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "CHAINALYSIS-GLOBAL-2026",
+      "author": "Chainalysis",
+      "title": "2026 Global Crypto Adoption Index",
+      "year": "2026",
+      "category": "Adoption, Usability & Financial Inclusion",
+      "type": "Industry research",
+      "region": "International",
+      "url": "https://www.chainalysis.com/blog/2026-global-crypto-adoption-index/",
+      "summary": "Introduces an adoption measurement approach incorporating services, peer-to-peer flows, cross-border activity and balances; rankings are methodology-dependent.",
+      "cti_relevance": "A useful comparator for differentiating activity metrics from evidence of locally meaningful benefit or legitimate decision-making.",
+      "topics": [
+        "Trust, Evidence & Verification",
+        "Stablecoins & Payment Infrastructure"
+      ],
+      "publication_date": "2026-09-23",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "BIS-170",
+      "author": "Iñaki Aldasoro, Jon Frost and Hiro Ito",
+      "title": "The impact of stablecoins on the international monetary and financial system",
+      "year": "2026",
+      "category": "Canadian Policy & Monetary Sovereignty",
+      "type": "Institutional research paper",
+      "region": "International",
+      "url": "https://www.bis.org/publications/paper-170-impact-stablecoins-international-monetary-and-financial-system",
+      "summary": "BIS Paper 170 examines potential monetary-system effects of stablecoins and scenarios involving digital dollarization and domestic stablecoin integration.",
+      "cti_relevance": "Supports explicit separation of trust infrastructure from currency choice, settlement systems and monetary-policy autonomy.",
+      "topics": [
+        "Stablecoins & Payment Infrastructure",
+        "CTI-Adjacent Theory"
+      ],
+      "publication_date": "2026-05-05",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "CIRCLE-CCTP",
+      "author": "Circle",
+      "title": "Cross-Chain Transfer Protocol (CCTP)",
+      "year": "2026",
+      "category": "Reference Architecture & Interoperability",
+      "type": "Technical documentation",
+      "region": "International",
+      "url": "https://developers.circle.com/cctp",
+      "summary": "Documentation for moving native USDC between supported networks through burn-and-mint workflows; this is product documentation rather than independent evidence of outcomes.",
+      "cti_relevance": "Illustrates value interoperability while leaving claim validation, governance legitimacy and allocation decisions outside the transfer mechanism.",
+      "topics": [
+        "Stablecoins & Payment Infrastructure"
+      ],
+      "date_precision": "year or undetermined; review required",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "ENS-GOVERNANCE",
+      "author": "ENS DAO",
+      "title": "ENS DAO governance",
+      "year": "2026",
+      "category": "Governance & Community Autonomy",
+      "type": "Governance documentation",
+      "region": "International",
+      "url": "https://docs.ens.domains/dao/",
+      "summary": "Governance documentation for ENS DAO and its organizational decision structures; not a substitute for analysis of individual 2026 votes.",
+      "cti_relevance": "A comparator for delegated execution, explicit authority boundaries and accountability to a broader governing community.",
+      "topics": [
+        "Reference Architecture & Interoperability"
+      ],
+      "date_precision": "year or undetermined; review required",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "UNICEF-FEMTECH",
+      "author": "UNICEF Office of Innovation",
+      "title": "FemTech Innovation Call",
+      "year": "2026",
+      "category": "Humanitarian & Development Finance",
+      "type": "Institutional program",
+      "region": "International",
+      "url": "https://www.unicef.org/innovation/FemTechCall",
+      "summary": "UNICEF's innovation call focused on technology addressing needs and barriers affecting women and girls; a program announcement, not outcome research.",
+      "cti_relevance": "A potential institutional reference for ethical technology design, inclusion and careful evidence standards in vulnerable settings.",
+      "topics": [
+        "Community Finance & Philanthropy"
+      ],
+      "date_precision": "year or undetermined; review required",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "UNICEF-KOTANI",
+      "author": "Kotani Pay",
+      "title": "Kotani Pay: local payment and off-ramp infrastructure",
+      "year": "2026",
+      "category": "Humanitarian & Development Finance",
+      "type": "Provider documentation",
+      "region": "Africa",
+      "url": "https://kotanipay.com/",
+      "summary": "Provider overview of digital asset and local-currency payment infrastructure. This is a vendor source and does not independently establish impact.",
+      "cti_relevance": "Highlights that settlement and cash-out availability depend on local institutions and relationships, beyond on-chain transfer finality.",
+      "topics": [
+        "Adoption, Usability & Financial Inclusion",
+        "Stablecoins & Payment Infrastructure"
+      ],
+      "date_precision": "year or undetermined; review required",
+      "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "PAYMENTS-CANADA-RTR",
+      "author": "Payments Canada",
+      "title": "Real-Time Rail infrastructure and modernization",
+      "year": "2026",
+      "category": "Canadian Policy & Monetary Sovereignty",
+      "type": "Institutional resource",
+      "region": "Canada",
+      "url": "https://www.payments.ca/",
+      "summary": "Payments Canada's official site provides information about national payments modernization and domestic settlement infrastructure; link is to the institution, not a specific report.",
+      "cti_relevance": "Relevant to Canadian settlement optionality and the principle that CTI should not be coupled to one monetary or technical rail.",
+      "topics": [
+        "Stablecoins & Payment Infrastructure"
+      ],
+      "date_precision": "year or undetermined; review required",
+      "review_status": "source-linked; bibliographic review pending"
     }
   ]
 }
