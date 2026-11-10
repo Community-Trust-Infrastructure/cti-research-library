@@ -1,5 +1,5 @@
 {
-  "version": "0.1",
+  "version": "0.2",
   "editorial_note": "Practice-based register, separate from published literature. Observations are not independently audited; do not present them as measured outcomes.",
   "cases": [
     {
@@ -10,7 +10,10 @@
       "status": "Completed pilot; field findings reported internally",
       "observations": "Community governance, relational off-ramping, WhatsApp-based signal capture, local stewardship, financial exclusion and transaction risk.",
       "research_question": "How can community-authorized evidence and local financial relationships support accountable access to capital?",
-      "limitations": "Field report not independently audited. Avoid implying that faster payment alone validates community trust."
+      "limitations": "Field report not independently audited. Avoid implying that faster payment alone validates community trust.",
+      "case_study": "case-studies/aifs-sarreya-tech365.md",
+      "publication_status": "working draft; partner and safeguarding review required before public promotion",
+      "evidence_basis": "Internal project draft, UNICEF writing sample, CTI Thesis V2.1; no independent audit"
     },
     {
       "id": "sportfi",
