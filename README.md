@@ -44,3 +44,9 @@ No code/content license has been selected yet. External research remains the pro
 Five working research notes now live in [`research-notes/`](research-notes/): [BIS measurement](research-notes/bis-measurement.md), [Moneta adoption](research-notes/moneta-adoption.md), [Canton/Broadridge interoperability](research-notes/canton-broadridge.md), [ENS governance](research-notes/ens-governance.md), and [CSA tokenization](research-notes/csa-tokenization.md). Each distinguishes the source's contribution, CTI interpretation, evidence limitations, testable questions and outstanding bibliographic verification. Four notes are linked from matching directory entries; Canton/Broadridge awaits a verified primary-source citation before adding a new literature entry.
 
 These are **working analytical notes**, not completed source-critical reviews. Do not present unverified findings as established empirical evidence.
+
+## Core CTI manuscript
+
+[**Community Trust Infrastructure V2.2 — An Open Reference Architecture for Portable Operational Trust**](manuscripts/cti-v2.2.md) is the November 2026 public research edition. The linked page is an **editorial guide**, not the complete 10-page PDF. The authoritative PDF was supplied in the research conversation but has **not yet been uploaded to this repository**; please do not cite the guide as the full manuscript.
+
+The V2.2 edition integrates the CTI functional architecture, Sarreya observations, SportFi evaluation questions and an institutional comparison to [World Bank FundsChain](research-notes/world-bank-fundschain.md). Canada–EU monetary interoperability remains a separate exploratory branch.
