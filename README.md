@@ -38,3 +38,9 @@ No build tools or dependencies are required.
 Suggest sources or corrections using [GitHub Issues](https://github.com/Community-Trust-Infrastructure/cti-research-library/issues/new). See [Methodology](methodology.html).
 
 No code/content license has been selected yet. External research remains the property of its original publishers.
+
+## Analytical research notes
+
+Five working research notes now live in [`research-notes/`](research-notes/): [BIS measurement](research-notes/bis-measurement.md), [Moneta adoption](research-notes/moneta-adoption.md), [Canton/Broadridge interoperability](research-notes/canton-broadridge.md), [ENS governance](research-notes/ens-governance.md), and [CSA tokenization](research-notes/csa-tokenization.md). Each distinguishes the source's contribution, CTI interpretation, evidence limitations, testable questions and outstanding bibliographic verification. Four notes are linked from matching directory entries; Canton/Broadridge awaits a verified primary-source citation before adding a new literature entry.
+
+These are **working analytical notes**, not completed source-critical reviews. Do not present unverified findings as established empirical evidence.
