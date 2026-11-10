@@ -1,5 +1,5 @@
 {
-  "version": "0.2",
+  "version": "0.3",
   "editorial_note": "Practice-based register, separate from published literature. Observations are not independently audited; do not present them as measured outcomes.",
   "cases": [
     {
@@ -23,7 +23,10 @@
       "status": "Pilot underway",
       "observations": "Explores community-generated signals, steward attestations and yield-funded community distributions.",
       "research_question": "Can validated community activity improve funder confidence and support more responsive allocation decisions?",
-      "limitations": "No demonstrated change in funder allocation decisions or generalizable impact claims yet."
+      "limitations": "No demonstrated change in funder allocation decisions or generalizable impact claims yet.",
+      "case_study": "case-studies/sportfi-research-protocol.md",
+      "publication_status": "working evaluation protocol; team and community approvals required",
+      "evidence_basis": "CTI Thesis V2.1, SportFi working project notes, September 2026 AYNI meeting notes"
     },
     {
       "id": "ayni",
