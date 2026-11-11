@@ -387,6 +387,23 @@
         "Trust, Evidence & Verification"
       ],
       "review_status": "ecosystem reference; implementation claims and outcomes not independently verified"
+    },
+    {
+      "id": "GITCOIN-2026",
+      "author": "Gitcoin",
+      "title": "Quadratic Funding and Community-Directed Public Goods Allocation",
+      "year": "2026",
+      "category": "Community Finance & Philanthropy",
+      "type": "Funding mechanism / ecosystem reference",
+      "region": "International",
+      "url": "https://gitcoin.co/",
+      "summary": "Gitcoin is a public goods funding ecosystem known for developing and applying quadratic funding approaches that use contributions from many participants to help allocate matching funds.",
+      "cti_relevance": "Provides a comparator for participatory allocation and the boundaries between funding preferences, legitimate community authority, verified evidence and accountable outcomes.",
+      "topics": [
+        "Governance & Community Autonomy",
+        "Trust, Evidence & Verification"
+      ],
+      "review_status": "ecosystem reference; specific programs, current operations and impact evidence require independent review"
     }
   ]
 }
