@@ -11,6 +11,12 @@ The library explores research on community finance, trust, attestations, governa
 
 **Version 0.2:** 21 source-linked research records, with the 11-category CTI Literature Index v2.0 taxonomy preserved in `data/taxonomy.json`. It is not yet the complete historical CTI Literature Index. Summaries and CTI relevance are editorial notes; inclusion does not imply endorsement by the cited institutions. Some dates are recorded by year pending detailed citation review.
 
+## Origins and acknowledgments
+
+Community Trust Infrastructure (CTI) has developed through research and practical experimentation undertaken within **All In For Sport (AIFS)**. AIFS has provided an important collaborative setting for exploring community governance, verification, coordination and more equitable approaches to resource allocation. Learning from AIFS collaborations, including with **Sarreya Sport** in Somaliland, has informed the architecture's research questions and implementation safeguards. These observations do not imply that partners endorse every CTI proposition or that the architecture is independently validated.
+
+CTI's research scope extends beyond sport and beyond the AIFS case studies. It is an open, technology-agnostic architecture intended for critique and comparative testing across governance, evidence, privacy, AI-assisted interpretation, community finance and capital allocation. Those research directions may, in turn, create opportunities for AIFS and other collaborators to test and innovate. Research authorship, organizational contributions and community-generated knowledge should be attributed distinctly, with partner consent and autonomy respected.
+
 ## Website features
 
 - Full-text keyword search
