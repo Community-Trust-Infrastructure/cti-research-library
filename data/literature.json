@@ -349,6 +349,26 @@
       ],
       "date_precision": "year or undetermined; review required",
       "review_status": "source-linked; bibliographic review pending"
+    },
+    {
+      "id": "FTC-2026",
+      "author": "Funding the Commons",
+      "title": "Public Goods Funding, Governance and Coordination",
+      "year": "2026",
+      "category": "Community Finance & Philanthropy",
+      "type": "Ecosystem reference",
+      "region": "Global",
+      "url": "https://www.fundingthecommons.io/",
+      "summary": "Global network advancing participatory funding, public goods governance, open-source infrastructure and coordination mechanisms through research, convenings, funding campaigns and practical experimentation.",
+      "cti_relevance": "Offers reference cases for community-directed capital allocation, distributed governance and neutral coordination infrastructure. Particularly relevant to investigating how evidence, attestations and validation could strengthen the legitimacy and accountability of participatory funding decisions.",
+      "topics": [
+        "Community Finance and Public Goods",
+        "Participatory Funding",
+        "Public Goods Governance"
+      ],
+      "research_status": "Ecosystem reference and potential collaborator; not evidence validating the CTI architecture.",
+      "review_status": "ecosystem reference; source and claims require independent verification",
+      "date_precision": "2026 is the CTI index entry year, not a verified publication date"
     }
   ]
 }
