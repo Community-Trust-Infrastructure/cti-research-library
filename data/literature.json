@@ -369,6 +369,24 @@
       "research_status": "Ecosystem reference and potential collaborator; not evidence validating the CTI architecture.",
       "review_status": "ecosystem reference; source and claims require independent verification",
       "date_precision": "2026 is the CTI index entry year, not a verified publication date"
+    },
+    {
+      "id": "RELAY-FUNDER-2026",
+      "author": "Relay Funder",
+      "title": "Community-Led Humanitarian Finance and Verifiable Funding Infrastructure",
+      "year": "2026",
+      "category": "Community Finance & Philanthropy",
+      "type": "Practice-based platform / ecosystem reference",
+      "region": "Kenya, Uganda and international",
+      "url": "https://www.relayfunder.com/",
+      "summary": "Community-led crowdfunding initiative exploring refugee-led fundraising, matching mechanisms, digital identity and transparent community funding workflows. Implementation details and outcomes require independent review.",
+      "cti_relevance": "Practical comparator for community authority over allocation, legitimacy of attestations, and the distinction between transparent transactions and verified real-world outcomes.",
+      "topics": [
+        "Humanitarian & Development Finance",
+        "Governance & Community Autonomy",
+        "Trust, Evidence & Verification"
+      ],
+      "review_status": "ecosystem reference; implementation claims and outcomes not independently verified"
     }
   ]
 }
