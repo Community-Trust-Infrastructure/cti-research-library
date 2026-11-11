@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "updated": "2026-11-10",
+  "editorial_note": "Exploratory relationship map only. Inclusion does not imply contact, endorsement, agreement or an active collaboration.",
+  "organizations": [
+    {
+      "id": "funding-the-commons",
+      "name": "Funding the Commons",
+      "website": "https://www.fundingthecommons.io/",
+      "focus": [
+        "Participatory funding",
+        "Public goods governance",
+        "Open-source infrastructure",
+        "Coordination mechanisms"
+      ],
+      "potential_cti_alignment": "Research exchange and comparative cases on community-directed capital allocation, governance legitimacy, attestations and accountable funding decisions.",
+      "status": "Potential collaborator — not contacted or confirmed",
+      "evidence_status": "Ecosystem reference; not validation of CTI",
+      "literature_reference": "FTC-2026"
+    }
+  ]
+}
