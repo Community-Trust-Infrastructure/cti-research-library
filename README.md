@@ -51,6 +51,8 @@ Five working research notes now live in [`research-notes/`](research-notes/): [B
 
 These are **working analytical notes**, not completed source-critical reviews. Do not present unverified findings as established empirical evidence.
 
+**New exploratory note:** [Donor-Retained Capital and Community-Directed Yield](research-notes/donor-retained-capital-community-directed-yield.md) examines donor ownership of principal, community-directed distributions of realized returns, Canadian charitable receipting, governance and financial risk. It is a research hypothesis, not a validated implementation or a claim about tax treatment.
+
 ## Core CTI manuscript
 
 [**Community Trust Infrastructure V2.2 — An Open Reference Architecture for Portable Operational Trust**](manuscripts/cti-v2.2.md) is the November 2026 public research edition. The linked page is an **editorial guide**, not the complete 10-page PDF. The authoritative PDF was supplied in the research conversation but has **not yet been uploaded to this repository**; please do not cite the guide as the full manuscript.
