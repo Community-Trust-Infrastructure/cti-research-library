@@ -17,6 +17,21 @@
       "status": "Potential collaborator — not contacted or confirmed",
       "evidence_status": "Ecosystem reference; not validation of CTI",
       "literature_reference": "FTC-2026"
+    },
+    {
+      "id": "relay-funder",
+      "name": "Relay Funder",
+      "website": "https://www.relayfunder.com/",
+      "focus": [
+        "Community-led humanitarian finance",
+        "Refugee-led crowdfunding",
+        "Matching mechanisms",
+        "Transparent funding workflows"
+      ],
+      "potential_cti_alignment": "Comparative research and possible sandbox dialogue on community authority, evidence validation and accountable allocation.",
+      "status": "Potential collaborator — not contacted or confirmed",
+      "evidence_status": "Practice-based ecosystem reference; outcomes not independently verified",
+      "literature_reference": "RELAY-FUNDER-2026"
     }
   ]
 }
