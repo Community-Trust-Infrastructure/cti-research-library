@@ -5,6 +5,12 @@
 
 > **Canonical source:** *CTI_V2_2_Fresh_Download(2).pdf*, supplied by the manuscript author on 10 November 2026. This repository page is an **editorial guide and source register**, not a verbatim reproduction of the PDF. The original 10-page PDF should be deposited as the authoritative manuscript once binary-file upload is available.
 
+## Research provenance and acknowledgments
+
+CTI has developed through research and experimentation undertaken within **All In For Sport (AIFS)**. Collaborations involving AIFS and community partners, including **Sarreya Sport**, have informed its practical questions, evidence limitations and governance safeguards. These contributions deserve attribution without implying partner endorsement of the full CTI architecture or treating pilot observations as independent validation.
+
+The proposed CTI framework extends beyond AIFS and sport. Its research areas invite comparative experiments in community governance, evidence and verification, privacy, AI-assisted interpretation, coordination and capital allocation. That broader agenda can also create opportunities for AIFS and other collaborators to test and refine approaches while maintaining their own governance and authorship.
+
 ## Research question
 
 > Financial infrastructure is becoming programmable and interoperable. Can the evidence and operational trust upon which decisions depend become portable and interoperable too?
