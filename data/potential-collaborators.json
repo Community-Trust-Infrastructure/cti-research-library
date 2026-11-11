@@ -32,6 +32,20 @@
       "status": "Potential collaborator — not contacted or confirmed",
       "evidence_status": "Practice-based ecosystem reference; outcomes not independently verified",
       "literature_reference": "RELAY-FUNDER-2026"
+    },
+    {
+      "id": "gitcoin",
+      "name": "Gitcoin",
+      "website": "https://gitcoin.co/",
+      "focus": [
+        "Quadratic funding",
+        "Public goods financing",
+        "Participatory allocation"
+      ],
+      "potential_cti_alignment": "Comparative research into funding allocation, community legitimacy, sybil-resistance and the possible role of verifiable attestations in participatory funding.",
+      "status": "Potential collaborator — not contacted or confirmed",
+      "evidence_status": "Ecosystem reference; no validation of CTI",
+      "literature_reference": "GITCOIN-2026"
     }
   ]
 }
