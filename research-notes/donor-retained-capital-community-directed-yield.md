@@ -20,6 +20,14 @@ Community Trust Infrastructure could provide evidence, validation and governance
 - Evaluate investment risk, liquidity, costs and sustainability.
 - Explore potential implementations using existing financial infrastructure.
 
+## Public sport infrastructure stewardship — exploratory application
+
+Infrastructure investment creates long-term stewardship obligations that are frequently separated from the original capital funding decision.
+
+This research explores whether donor-retained capital and community-directed investment returns could help finance the ongoing maintenance, accessibility and programming of public sport infrastructure, while preserving municipal oversight and increasing transparency and community participation.
+
+This is a proposed application, not an established financing model. Further investigation is needed into municipal responsibilities and liability, investment and liquidity risks, eligible uses of distributions, public accountability, and community decision-making authority.
+
 ## Potential reference cases
 
 Bread Cooperative and SportFi offer relevant mechanisms and implementation experience for investigation. Neither should be treated as proof of the proposed donor-retained capital model.
