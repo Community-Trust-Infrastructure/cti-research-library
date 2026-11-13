@@ -442,6 +442,25 @@
       ],
       "review_status": "Primary legislative text; commencement and regulatory interpretation to verify",
       "research_note": "research-notes/donor-retained-capital-community-directed-yield.md"
+    },
+    {
+      "id": "OPENAI-CHATGPT-WALLET-2026",
+      "author": "OpenAI",
+      "title": "Introducing ChatGPT Wallet: Building trusted agentic payments with networks, banks, and businesses",
+      "year": "2026",
+      "category": "AI Agents & Autonomous Finance",
+      "type": "Product announcement / emerging implementation case",
+      "region": "United States (initial rollout)",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+      "summary": "OpenAI announces agent-mediated card payments initially through dots for eligible US ChatGPT Pro users. Users review items, amount and card, then authorize each purchase with a security check; network-issued payment tokens protect actual card credentials. OpenAI describes authorization records and existing card dispute protections, and anticipates future bounded purchase delegation.",
+      "cti_relevance": "Case study in separating secure payment execution from legitimate delegated authority and evidence supporting agent recommendations. Research questions include independent verification, revocation, contestability, provenance of recommendations, portability of authorization records and accountability when authorized actions have unintended outcomes.",
+      "topics": [
+        "Trust, Evidence & Verification",
+        "Reference Architecture & Interoperability",
+        "Delegated Authority",
+        "Agentic Payments"
+      ],
+      "review_status": "Primary-party announcement; operational safeguards described but not independently audited; future delegation features not yet demonstrated"
     }
   ]
 }
