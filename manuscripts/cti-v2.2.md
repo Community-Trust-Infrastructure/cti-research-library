@@ -61,6 +61,16 @@ This is a **proposed architecture**, not a deployed standard, objective trust sc
 
 This is a conceptual sequence, **not** a required software pipeline. Operational and financial execution remain outside CTI's evidence-and-decision interface.
 
+## Foundational design boundary — enabling trust, not adjudicating trustworthiness
+
+**CTI enables trust; it does not adjudicate trustworthiness.** Trust is contextual, relational and contestable. The architecture supports evidence, provenance, transparent decisions and accountable relationships; it must not produce universal trust scores, designate who deserves resources, or replace legitimate human and community governance.
+
+**Evidence validation is not trustworthiness assessment.** Verification of a specific claim cannot establish the inherent trustworthiness of a person, organization or community. AI-assisted tools may help assess evidence integrity and flag inconsistencies, but must not independently decide eligibility for capital. Systems should support consent, selective disclosure, correction, appeal and appropriate local authority.
+
+**Guiding design consideration:** The purpose of CTI is not to make communities more legible to power. It is to make the exercise of power more accountable to communities.
+
+This is an editorial clarification of the research architecture, not a claim that the original V2.2 PDF has been revised.
+
 ## Key distinctions
 
 | CTI distinguishes | Why |
