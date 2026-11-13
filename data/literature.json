@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "updated": "2026-11-10",
+  "version": "0.4.1",
+  "updated": "2026-11-13",
   "note": "Research entries aligned to the 11-category CTI taxonomy. Original topic labels retained as secondary topics. Source metadata is not universally verified; review_status flags uncertainty. Four directory entries now link to analytical research notes; Canton/Broadridge has a separate working note pending source verification and a formal bibliography entry.",
   "resources": [
     {
@@ -404,6 +404,25 @@
         "Trust, Evidence & Verification"
       ],
       "review_status": "ecosystem reference; specific programs, current operations and impact evidence require independent review"
+    },
+    {
+      "id": "FASE-TETHER-2026",
+      "author": "Tether",
+      "title": "FASE Foundation launch: stablecoin aid and humanitarian initiatives",
+      "year": "2026",
+      "category": "Humanitarian & Development Finance",
+      "type": "Organizational announcement / exploratory case",
+      "region": "International",
+      "url": "https://tether.io/news/tether-and-industry-collaborators-launch-fase-foundation-to-fight-scams-support-trafficking-survivors-and-pilot-stablecoin-aid-in-vulnerable-communities/",
+      "summary": "Tether announces FASE Foundation and collaborators, including proposed stablecoin-aid pilots for vulnerable communities, anti-scam work and survivor support. Governance arrangements and results have not been independently assessed in this entry.",
+      "cti_relevance": "Research case for distinguishing payment infrastructure from who controls priorities, eligibility, evidence validation, disbursement and appeal. Investigate the location and enforceability of community decision-making authority, not simply transaction speed.",
+      "topics": [
+        "Governance & Community Autonomy",
+        "Community Finance & Philanthropy",
+        "Stablecoins & Payment Infrastructure"
+      ],
+      "review_status": "primary-party announcement; independent governance and outcome verification pending",
+      "research_note": "research-notes/capital-ownership-community-authority-humanitarian-finance.md"
     }
   ]
 }
