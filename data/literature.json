@@ -423,6 +423,25 @@
       ],
       "review_status": "primary-party announcement; independent governance and outcome verification pending",
       "research_note": "research-notes/capital-ownership-community-authority-humanitarian-finance.md"
+    },
+    {
+      "id": "cti-026",
+      "author": "Government of Canada",
+      "title": "Stablecoin Act (S.C. 2026, c. 3, s. 600)",
+      "year": "2026",
+      "category": "Canadian Policy & Monetary Sovereignty",
+      "type": "Legislation",
+      "region": "Canada",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/S-15.9/",
+      "summary": "Canadian legislative framework addressing stablecoin issuers, including section 32 restrictions on issuer-paid interest or yield. Commencement and implementing regulations require checking before operational reliance.",
+      "cti_relevance": "Distinguishes stablecoin settlement from independent investment yield and community-governed allocation. Relevant to donor-retained capital models, but does not establish legality of third-party yield or Canadian charitable tax receipting.",
+      "topics": [
+        "Stablecoins & Payment Infrastructure",
+        "Donor-Retained Capital",
+        "Canadian Policy & Monetary Sovereignty"
+      ],
+      "review_status": "Primary legislative text; commencement and regulatory interpretation to verify",
+      "research_note": "research-notes/donor-retained-capital-community-directed-yield.md"
     }
   ]
 }
