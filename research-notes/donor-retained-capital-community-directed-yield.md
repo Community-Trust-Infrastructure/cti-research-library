@@ -55,3 +55,16 @@ We welcome research, legal perspectives, implementation examples and critical an
 ## Related research — authority separation (13 November 2026)
 
 A related comparative hypothesis asks whether the **source of capital must determine allocation authority**. Donor ownership, investment management and community-directed use of distributable returns may be separated, but only where mandates are legally effective, decision rights are meaningful, and financial risks and responsibilities remain explicit. See [Capital Ownership, Community Authority and Humanitarian Finance](capital-ownership-community-authority-humanitarian-finance.md) for comparison with humanitarian finance and FASE. This does not establish Canadian tax treatment, community authority in any specific program, or reliable investment returns.
+
+
+## Canadian Stablecoin Act — regulatory boundary (13 November 2026)
+
+**Primary source:** Government of Canada, [Stablecoin Act](https://laws-lois.justice.gc.ca/eng/acts/S-15.9/) (Justice Laws Website). Confirm current commencement and regulations before relying on any provision operationally.
+
+Section 32 prohibits an issuer from directly or indirectly paying stablecoin holders interest or yield in respect of its issued stablecoin. This creates an important research distinction between (a) a payment stablecoin and its issuer's obligations, (b) a separate yield-generating investment or protocol that may use stablecoins, and (c) the governance and allocation of realized distributable returns. The Act's issuer prohibition does **not** itself establish that third-party yield arrangements are lawful or that they qualify for charitable tax receipts. Securities, tax, AML and other requirements need independent assessment.
+
+**CTI implication:** CTI's trust layer concerns verifiable community evidence, allocation authority and accountability; it does not issue stablecoins, manage principal or generate yield. Evaluate settlement, investment and community-governance functions separately rather than treating a yield-bearing stablecoin as a prerequisite.
+
+**Open research questions:** Can a Canadian donor retain principal ownership while legally donating realized investment income to a registered charity? What gift, attribution and receipting rules apply? How do redemption, reserve, custody, counterparty, liquidity and smart-contract risks affect reliability? What legal duties constrain community-directed allocations? Compare a conventional interest-bearing investment with any stablecoin-based implementation.
+
+**Status:** Regulatory research reference and hypothesis only; not legal, investment or tax advice.
