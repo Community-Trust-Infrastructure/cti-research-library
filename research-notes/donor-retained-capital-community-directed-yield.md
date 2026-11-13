@@ -51,3 +51,7 @@ Bread Cooperative and SportFi offer relevant mechanisms and implementation exper
 ## Invitation
 
 We welcome research, legal perspectives, implementation examples and critical analysis that could help establish whether this model is feasible, beneficial and appropriate for community finance.
+
+## Related research — authority separation (13 November 2026)
+
+A related comparative hypothesis asks whether the **source of capital must determine allocation authority**. Donor ownership, investment management and community-directed use of distributable returns may be separated, but only where mandates are legally effective, decision rights are meaningful, and financial risks and responsibilities remain explicit. See [Capital Ownership, Community Authority and Humanitarian Finance](capital-ownership-community-authority-humanitarian-finance.md) for comparison with humanitarian finance and FASE. This does not establish Canadian tax treatment, community authority in any specific program, or reliable investment returns.
