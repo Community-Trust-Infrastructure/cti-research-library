@@ -461,6 +461,42 @@
         "Agentic Payments"
       ],
       "review_status": "Primary-party announcement; operational safeguards described but not independently audited; future delegation features not yet demonstrated"
+    },
+    {
+      "id": "BLOOMBERG-LATAM-STABLECOINS-2026",
+      "author": "Bloomberg News",
+      "title": "Stablecoins Are Becoming Crypto's Killer App Across Latin America",
+      "year": "2026",
+      "category": "Adoption, Usability & Financial Inclusion",
+      "type": "Financial journalism / regional adoption analysis",
+      "region": "Latin America",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/stablecoins-are-becoming-crypto-s-killer-app-across-latin-america",
+      "summary": "November 13, 2026 Bloomberg report on stablecoins' expanding practical role across Latin America. Full article was not accessible for independent review; specific regional adoption figures should be sourced to underlying empirical research.",
+      "cti_relevance": "Prompts investigation into why communities adopt new financial technology to address currency instability, dollar access and payment friction, and whether utility-based adoption increases or reduces dependence on intermediaries.",
+      "topics": [
+        "Stablecoins & Payment Infrastructure",
+        "Canadian Policy & Monetary Sovereignty",
+        "Trust, Evidence & Verification"
+      ],
+      "review_status": "Headline and publication link verified; full text inaccessible; do not attribute detailed claims without article review"
+    },
+    {
+      "id": "CHAINALYSIS-LATAM-2026",
+      "author": "Chainalysis",
+      "title": "Latin America: Brazil Leads World in Adoption as Region’s Crypto Economy Grows",
+      "year": "2026",
+      "category": "Adoption, Usability & Financial Inclusion",
+      "type": "On-chain adoption research / industry analysis",
+      "region": "Latin America",
+      "url": "https://www.chainalysis.com/blog/latin-america-crypto-adoption-2026/",
+      "summary": "Reports $593.8 billion in Latin American crypto activity during July 2025–June 2026, up 9.8%. In June 2026 stablecoins represented approximately 32% of measured cross-border crypto value, 22% of domestic peer-to-peer activity and 17.6% of personal wallet balances. Identifies inflation, currency volatility, capital controls and cross-border transfer needs as adoption drivers, with meaningful differences across countries.",
+      "cti_relevance": "Empirical case for utility- and necessity-driven financial adoption. Raises questions about custody and platform dependence, USD-denominated monetary exposure, consumer protections, and whether improved access translates into portable trust or community authority. Adoption metrics are not proof of trust, sovereignty or CTI effectiveness.",
+      "topics": [
+        "Stablecoins & Payment Infrastructure",
+        "Canadian Policy & Monetary Sovereignty",
+        "Trust, Evidence & Verification"
+      ],
+      "review_status": "Primary industry research; methodology and on-chain measurement limitations apply"
     }
   ]
 }
