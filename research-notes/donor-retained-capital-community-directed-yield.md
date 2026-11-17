@@ -68,3 +68,8 @@ Section 32 prohibits an issuer from directly or indirectly paying stablecoin hol
 **Open research questions:** Can a Canadian donor retain principal ownership while legally donating realized investment income to a registered charity? What gift, attribution and receipting rules apply? How do redemption, reserve, custody, counterparty, liquidity and smart-contract risks affect reliability? What legal duties constrain community-directed allocations? Compare a conventional interest-bearing investment with any stablecoin-based implementation.
 
 **Status:** Regulatory research reference and hypothesis only; not legal, investment or tax advice.
+
+
+## Related literature — DAF deployment incentives (16 November 2026)
+
+Robert Foster's [2026 proposal to rank donor-advised fund sponsors by annual deployment ratio](https://ssir.org/articles/entry/donor-advised-funds-ranking) raises an adjacent, distinct problem: institutional incentives may reward retaining charitable capital even where deployment is socially valuable. A proposed public ratio could reveal inactivity but cannot by itself establish community authority, appropriate timing, funding quality or outcomes. The separate LinkedIn discussion of recoverable first-dollar housing predevelopment finance addresses early-stage risk, whereas this note's sport-infrastructure application addresses recurring post-construction stewardship. See the [analytical research note](daf-deployment-incentives-accountability.md). Neither argument validates donor-retained yield or CTI's effectiveness.
