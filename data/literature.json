@@ -1,6 +1,6 @@
 {
   "version": "0.4.1",
-  "updated": "2026-11-13",
+  "updated": "2026-11-16",
   "note": "Research entries aligned to the 11-category CTI taxonomy. Original topic labels retained as secondary topics. Source metadata is not universally verified; review_status flags uncertainty. Four directory entries now link to analytical research notes; Canton/Broadridge has a separate working note pending source verification and a formal bibliography entry.",
   "resources": [
     {
@@ -497,6 +497,24 @@
         "Trust, Evidence & Verification"
       ],
       "review_status": "Primary industry research; methodology and on-chain measurement limitations apply"
+    },
+    {
+      "id": "FOSTER-DAF-RANKING-2026",
+      "author": "Robert Foster",
+      "title": "The Case for Ranking Donor-Advised Funds",
+      "year": "2026",
+      "category": "Community Finance & Philanthropy",
+      "type": "Policy argument / commentary",
+      "region": "United States",
+      "url": "https://ssir.org/articles/entry/donor-advised-funds-ranking",
+      "summary": "Proposes ranking large US donor-advised fund sponsors by annual dollars deployed relative to assets under management to increase transparency and change incentives to retain charitable capital.",
+      "cti_relevance": "Prompts inquiry into institutional deployment incentives and reciprocal accountability. A deployment ratio does not measure community authority, allocation quality or stewardship; CTI should support contextual evidence, not universal trust scores.",
+      "topics": [
+        "Governance & Community Autonomy",
+        "Trust, Evidence & Verification"
+      ],
+      "review_status": "Article and publication metadata verified; policy proposal, not evaluated impact; underlying DAF statistics not independently checked",
+      "research_note": "research-notes/daf-deployment-incentives-accountability.md"
     }
   ]
 }
