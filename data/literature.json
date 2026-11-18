@@ -1,6 +1,6 @@
 {
   "version": "0.4.1",
-  "updated": "2026-11-16",
+  "updated": "2026-11-18",
   "note": "Research entries aligned to the 11-category CTI taxonomy. Original topic labels retained as secondary topics. Source metadata is not universally verified; review_status flags uncertainty. Four directory entries now link to analytical research notes; Canton/Broadridge has a separate working note pending source verification and a formal bibliography entry.",
   "resources": [
     {
@@ -515,6 +515,28 @@
       ],
       "review_status": "Article and publication metadata verified; policy proposal, not evaluated impact; underlying DAF statistics not independently checked",
       "research_note": "research-notes/daf-deployment-incentives-accountability.md"
+    },
+    {
+      "id": "OCREE-BEDROCK-2026",
+      "author": "Ocree Corporation / Canadian Securities Exchange",
+      "title": "Project Bedrock: Canadian private-markets tokenization and digital settlement pilot",
+      "year": "2026",
+      "publication_date": "2026-11-17",
+      "category": "Reference Architecture & Interoperability",
+      "type": "Pilot announcement / primary-source press release",
+      "region": "Canada",
+      "url": "https://primary.thecse.com/news/ocree-partners-with-the-canadian-securities-exchange-apex-group-and-tetra-digital-group-to-launch-a-canadian-pilot-to-create-a-private-markets-digital-ecosystem/",
+      "summary": "Ocree, the Canadian Securities Exchange, Apex Group through Tokeny, and Tetra Digital Group announced the next phase of Project Bedrock. The pilot aims to distribute tokenized private real-estate securities using existing Canadian dealer, exchange and custody infrastructure, standardized disclosure and compliance through Ocree's OARDS framework, and proposed CADD stablecoin settlement. Secondary-market trading is a planned subsequent phase, not a demonstrated result.",
+      "cti_relevance": "A Canadian comparison case for distinguishing standardized, AI-assisted financial disclosure and compliance from independently verifiable evidence, contestable attestations, and legitimate decision authority. Raises questions about provenance, accountability, validation and the separation of trust infrastructure from asset tokenization and settlement.",
+      "topics": [
+        "Tokenization & Capital Markets Infrastructure",
+        "Canadian Policy & Monetary Sovereignty",
+        "Trust, Evidence & Verification"
+      ],
+      "research_question": "As financial assets become tokenized and settlement becomes programmable, how do we ensure that the evidence supporting investment decisions is independently verifiable, and that authority and accountability remain clearly defined?",
+      "research_status": "Announced pilot and implementation to monitor; not evidence validating CTI or proof of successful settlement, disclosure verification or secondary-market liquidity.",
+      "review_status": "Primary announcement reviewed; independent pilot outcomes pending",
+      "research_note": "research-notes/project-bedrock-ocree-canada.md"
     }
   ]
 }
