@@ -537,6 +537,28 @@
       "research_status": "Announced pilot and implementation to monitor; not evidence validating CTI or proof of successful settlement, disclosure verification or secondary-market liquidity.",
       "review_status": "Primary announcement reviewed; independent pilot outcomes pending",
       "research_note": "research-notes/project-bedrock-ocree-canada.md"
+    },
+    {
+      "id": "MAS-GUARDIAN-COLLATERAL-2026",
+      "author": "Guardian Tokenised Collateral Workgroup (convened by Monetary Authority of Singapore)",
+      "title": "Guardian Tokenised Collateral Framework: Market Landscape and Implementation Considerations",
+      "year": "2026",
+      "publication_date": "2026-11-19",
+      "category": "Reference Architecture & Interoperability",
+      "type": "Industry implementation framework / information paper",
+      "region": "Singapore / cross-border institutional markets",
+      "url": "https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-tokenised-collateral-framework---market-landscape-and-implementation-considerations.pdf",
+      "summary": "Eight-step institutional collateral lifecycle framework covering agreement and eligibility, delivery and settlement finality, legal effectiveness and priority, holding, life of trade, return, default and enforcement, and cross-border considerations. Compares digital-twin, custodian-sponsored and digitally native tokenisation models, distinguishing token records and operational control from legally recognized ownership, entitlements and security interests.",
+      "cti_relevance": "Architectural comparator for distinguishing technical control, legal ownership and legitimate allocation authority; tracing verifiable records across custodians and jurisdictions; and designing for revocation, disputes, failures and enforcement. Relevant to donor-retained principal versus community-directed returns, but does not validate that philanthropic arrangement or prescribe CTI technology.",
+      "topics": [
+        "Tokenization & Capital Markets Infrastructure",
+        "Trust, Evidence & Verification",
+        "Governance & Community Autonomy",
+        "Donor-Retained Capital"
+      ],
+      "research_question": "As financial assets and their associated rights become digitally represented, how can systems distinguish technical control, legal ownership and legitimate decision-making authority—and ensure those distinctions remain verifiable across institutions and jurisdictions?",
+      "review_status": "Primary industry framework reviewed; not binding law, legal advice, regulatory guidance or MAS endorsement; illustrative cases and legal effects are jurisdiction-dependent",
+      "research_note": "research-notes/donor-retained-capital-community-directed-yield.md"
     }
   ]
 }
