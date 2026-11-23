@@ -578,6 +578,43 @@
         "Technology-neutral architecture"
       ],
       "review_status": "Analytical interpretation; primary submission warrants detailed review"
+    },
+    {
+      "id": "FORBES-ANTHROPIC-MULTICHAIN-2026",
+      "author": "Murtuza Merchant / Forbes",
+      "title": "Anthropic's IPO Shows Tokenized Assets Can't Settle on One Blockchain",
+      "year": "2026",
+      "publication_date": "2026-11-19",
+      "category": "Reference Architecture & Interoperability",
+      "type": "Financial journalism / market analysis",
+      "region": "International",
+      "url": "https://www.forbes.com/sites/murtuza-merchant/2026/11/19/anthropics-ipo-shows-tokenized-assets-cant-settle-on-one-blockchain/",
+      "summary": "Reports on competing blockchain approaches to tokenized equity exposure around Anthropic's reported IPO, highlighting fragmentation across networks and distinctions between tokenized exposure and legally recognized share ownership. Institutional commentary, including Stellar's perspective, frames growing urgency around network participation. Claims about specific offerings and legal rights require verification against issuers and regulatory filings.",
+      "cti_relevance": "Illustrates why asset settlement interoperability does not itself ensure portability of evidence, legal entitlements, attestations or decision authority. Research comparator for CTI's technology-neutral architecture and the governance of cross-network controls, claims and disputes.",
+      "topics": [
+        "Tokenization & Capital Markets Infrastructure",
+        "Trust, Evidence & Verification",
+        "Governance & Community Autonomy"
+      ],
+      "research_question": "If tokenized assets span multiple networks, how can their supporting evidence, legal rights and legitimate decision-making authority remain independently verifiable and accountable across systems?",
+      "review_status": "Reported market analysis; not proof of token legal rights, interoperability or CTI efficacy"
+    },
+    {
+      "id": "STELLAR-RAJA-CHAKRAVORTI-2026",
+      "author": "Raja Chakravorti / Stellar Development Foundation",
+      "title": "Institutional tokenization priorities: from permission and safety to deployment and network participation",
+      "year": "2026",
+      "category": "Reference Architecture & Interoperability",
+      "type": "Industry executive commentary / LinkedIn post",
+      "region": "International",
+      "url": "https://www.forbes.com/sites/murtuza-merchant/2026/11/19/anthropics-ipo-shows-tokenized-assets-cant-settle-on-one-blockchain/",
+      "summary": "In a LinkedIn post linking to Forbes coverage, Stellar Development Foundation's chief business officer describes institutional questions evolving from 'Is this allowed?' and 'Is it safe?' toward speed of launch and who else is on a network. The post is a participant's perspective, not independent adoption data.",
+      "cti_relevance": "Prompts the question whether acceleration in network participation is accompanied by portable rights, independently verifiable evidence and legitimate authority. Supports treating settlement network effects and trust governance as separate dimensions.",
+      "topics": [
+        "Tokenization & Capital Markets Infrastructure",
+        "Trust, Evidence & Verification"
+      ],
+      "review_status": "Commentary observed in user-supplied screenshot; original post URL not available; linked Forbes article used as contextual source"
     }
   ]
 }
