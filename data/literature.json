@@ -1,6 +1,6 @@
 {
   "version": "0.4.1",
-  "updated": "2026-11-18",
+  "updated": "2026-11-23",
   "note": "Research entries aligned to the 11-category CTI taxonomy. Original topic labels retained as secondary topics. Source metadata is not universally verified; review_status flags uncertainty. Four directory entries now link to analytical research notes; Canton/Broadridge has a separate working note pending source verification and a formal bibliography entry.",
   "resources": [
     {
@@ -559,6 +559,25 @@
       "research_question": "As financial assets and their associated rights become digitally represented, how can systems distinguish technical control, legal ownership and legitimate decision-making authority—and ensure those distinctions remain verifiable across institutions and jurisdictions?",
       "review_status": "Primary industry framework reviewed; not binding law, legal advice, regulatory guidance or MAS endorsement; illustrative cases and legal effects are jurisdiction-dependent",
       "research_note": "research-notes/donor-retained-capital-community-directed-yield.md"
+    },
+    {
+      "id": "cti-2027",
+      "author": "Donny Lewis",
+      "title": "Trust Architecture for European Digital Finance: Regulation Without Collapsing Trust Into Control",
+      "year": "2026",
+      "category": "Trust, Evidence & Verification",
+      "type": "Regulatory consultation submission / conceptual framework",
+      "region": "European Union",
+      "url": "https://donnylewis.com/mica-review-2026/",
+      "summary": "MiCA review submission examining how regulatory safeguards redistribute vulnerability and authority; distinguishes verification, certification and compliance from centralized control, and emphasizes meaningful choice and exit.",
+      "cti_relevance": "Provides a comparative framework for testing vulnerability transfer, identifying who holds decision authority, preserving portability and exit, and preventing attestation or certification infrastructure from becoming a gatekeeper to community-directed capital.",
+      "topics": [
+        "Governance & Community Autonomy",
+        "EU Digital Finance Policy",
+        "Reference Architecture & Interoperability",
+        "Technology-neutral architecture"
+      ],
+      "review_status": "Analytical interpretation; primary submission warrants detailed review"
     }
   ]
 }
