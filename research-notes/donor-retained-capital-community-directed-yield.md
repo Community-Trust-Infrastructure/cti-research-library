@@ -73,3 +73,12 @@ Section 32 prohibits an issuer from directly or indirectly paying stablecoin hol
 ## Related literature — DAF deployment incentives (16 November 2026)
 
 Robert Foster's [2026 proposal to rank donor-advised fund sponsors by annual deployment ratio](https://ssir.org/articles/entry/donor-advised-funds-ranking) raises an adjacent, distinct problem: institutional incentives may reward retaining charitable capital even where deployment is socially valuable. A proposed public ratio could reveal inactivity but cannot by itself establish community authority, appropriate timing, funding quality or outcomes. The separate LinkedIn discussion of recoverable first-dollar housing predevelopment finance addresses early-stage risk, whereas this note's sport-infrastructure application addresses recurring post-construction stewardship. See the [analytical research note](daf-deployment-incentives-accountability.md). Neither argument validates donor-retained yield or CTI's effectiveness.
+
+
+## Related literature — Guardian Tokenised Collateral Framework (19 November 2026)
+
+The [Guardian Tokenised Collateral Framework](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-tokenised-collateral-framework---market-landscape-and-implementation-considerations.pdf), developed by an industry workgroup convened by the Monetary Authority of Singapore, examines tokenised collateral through eight lifecycle stages, including legal effectiveness, holding, return, default and cross-border considerations. It distinguishes ledger records and operational control from legally recognized ownership, entitlement and security interests; operational control alone does not establish creation, perfection or priority of a security interest.
+
+**Relevance to this hypothesis:** Donor retention of principal, custody or technical control of assets, and community authority over realized distributions are distinct design and legal questions. Any proposed structure needs documented rights, authorized decision-makers, verifiable records, and arrangements for revocation, failure, withdrawal and dispute resolution. These institutional collateral principles are *comparators*, not a legal pathway or validation for donor-retained community-directed yield.
+
+**Status:** Industry implementation paper, not binding legislation, regulatory guidance, or a MAS endorsement of particular arrangements. Legal and tax analysis remains jurisdiction-specific.
