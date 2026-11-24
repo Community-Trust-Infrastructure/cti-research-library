@@ -655,6 +655,39 @@
         "Trust, Evidence & Verification"
       ],
       "review_status": "Final response prepared; email dispatch and official receipt not confirmed. Linked record is a summary, not the full PDF; no policy adoption or endorsement implied."
+    },
+    {
+      "id": "PLURALITY-WEYL-TANG-2024",
+      "author": "E. Glen Weyl, Audrey Tang and the Plurality Community",
+      "title": "Plurality: The Future of Collaborative Technology and Democracy",
+      "year": "2024",
+      "category": "CTI-Adjacent Theory",
+      "type": "Foundational literature / open collaborative book",
+      "region": "International / Taiwan",
+      "url": "https://plurality.net/",
+      "summary": "An openly authored book proposing technology that enables collaboration across social differences, drawing on Taiwan's digital democracy experience and exploring alternatives to centralized AI governance and techno-libertarianism. Released under CC0.",
+      "cti_relevance": "Foundational theoretical comparator for CTI's coordination rather than control, community autonomy, plural governance, and technology-neutral approach. Commerce, property, creative collaboration and social markets provide conceptual entry points for capital coordination and financial innovation for social value. These are research connections, not evidence validating CTI.",
+      "topics": [
+        "Foundational literature",
+        "Governance & Community Autonomy",
+        "Trust, Evidence & Verification",
+        "Reference Architecture & Interoperability",
+        "AI Agents & Autonomous Finance",
+        "Community Finance & Philanthropy",
+        "Capital Coordination & Financial Innovation for Social Value"
+      ],
+      "priority": "Foundational / high research priority",
+      "recommended_chapters": [
+        "3-2 Connected Society",
+        "4-3 Commerce and Trust",
+        "4-4 Property and Contract",
+        "5-3 Creative Collaborations",
+        "5-4 Augmented Deliberation",
+        "5-6 Plural Voting",
+        "5-7 Social Markets"
+      ],
+      "research_question": "How can diverse communities and capital providers coordinate through shared evidence and collaborative institutions while preserving distinct identities, decision rights and meaningful autonomy?",
+      "review_status": "Official project overview and chapter index verified; detailed chapter-level critical review pending."
     }
   ]
 }
