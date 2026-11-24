@@ -1,6 +1,6 @@
 {
   "version": "0.4.1",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "note": "Research entries aligned to the 11-category CTI taxonomy. Original topic labels retained as secondary topics. Source metadata is not universally verified; review_status flags uncertainty. Four directory entries now link to analytical research notes; Canton/Broadridge has a separate working note pending source verification and a formal bibliography entry.",
   "resources": [
     {
@@ -615,6 +615,27 @@
         "Trust, Evidence & Verification"
       ],
       "review_status": "Commentary observed in user-supplied screenshot; original post URL not available; linked Forbes article used as contextual source"
+    },
+    {
+      "id": "HABITAT-CANADA-REVOLVING-CAPITAL-2026",
+      "author": "Habitat for Humanity Canada",
+      "title": "Affordable Homeownership Investment Fund — revolving capital and blended finance",
+      "year": "2026",
+      "category": "Community Finance & Philanthropy",
+      "type": "Institutional announcement / proposed fund",
+      "region": "Canada",
+      "url": "https://lnkd.in/eChcSz6K",
+      "summary": "In a LinkedIn announcement supplied as a screenshot on November 24, Habitat describes a fund in development with TD support, combining government, philanthropic and socially minded investor capital to finance affordable home construction and reinvest loan repayments into future homes.",
+      "cti_relevance": "Technology-neutral comparator for a proposed dual capital architecture: explore a revolving infrastructure fund for community sport construction and renewal alongside donor-retained invested principal whose realized distributable yield supports programming, maintenance and upkeep. Sport Calgary and Civic Play are possible exploratory contexts, not confirmed partners. CTI could support accountable evidence, governance and community allocation authority without operating either fund.",
+      "topics": [
+        "Blended finance",
+        "Revolving capital",
+        "Donor-retained capital",
+        "Community infrastructure sustainability",
+        "Technology-neutral architecture"
+      ],
+      "research_question": "Can complementary revolving infrastructure finance and community-directed investment yield support affordable sport participation across the asset lifecycle, without shifting unsustainable repayment obligations onto communities?",
+      "review_status": "Announcement observed in user-supplied screenshot; linked source not independently verified. Fund in development; terms, repayment sources, risks, governance and effectiveness unverified. Sport Calgary application is a research hypothesis, not an agreed pilot."
     }
   ]
 }
