@@ -688,6 +688,28 @@
       ],
       "research_question": "How can diverse communities and capital providers coordinate through shared evidence and collaborative institutions while preserving distinct identities, decision rights and meaningful autonomy?",
       "review_status": "Official project overview and chapter index verified; detailed chapter-level critical review pending."
+    },
+    {
+      "id": "BLACKROCK-HKD-LIQUIDITY-2026",
+      "author": "BlackRock",
+      "title": "BlackRock HKD Digital Liquidity Fund — regulatory authorization and digital cash settlement",
+      "year": "2026",
+      "publication_date": "2026-09-10",
+      "category": "Reference Architecture & Interoperability",
+      "type": "Primary product announcement / institutional implementation comparator",
+      "region": "Hong Kong",
+      "url": "https://www.blackrock.com/cash/en-hk/press-release-t2",
+      "summary": "BlackRock announced regulatory authorization for an HKD money market fund supporting conventional and tokenized units and fiat and digital cash subscriptions and redemptions, including HKDAP and tokenized deposits. Standard Chartered provides custody, administration, trustee and tokenization services. Accumulating and distributing classes differ; capital and income are not guaranteed.",
+      "cti_relevance": "Separates investment, settlement, custody and distribution functions within a regulated product. Comparator for donor-retained capital and community-directed realized income, not evidence that third-party charitable distributions, Canadian tax treatment or community governance are supported. Examine liquidity gates, concentration of service-provider authority and dependence on local settlement rails.",
+      "topics": [
+        "Donor-Retained Capital",
+        "Community Finance & Philanthropy",
+        "Tokenization & Capital Markets Infrastructure",
+        "Canadian Policy & Monetary Sovereignty"
+      ],
+      "research_question": "Can integrated institutional liquidity infrastructure be adapted to recurring community funding while preserving donor ownership, community allocation authority and non-extractive governance?",
+      "review_status": "Primary issuer announcement and product page reviewed; independent operating outcomes and reported November AUM not verified in this review; CryptoProwl inaccessible",
+      "research_note": "research-notes/donor-retained-capital-community-directed-yield.md"
     }
   ]
 }
