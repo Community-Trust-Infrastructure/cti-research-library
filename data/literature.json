@@ -710,6 +710,28 @@
       "research_question": "Can integrated institutional liquidity infrastructure be adapted to recurring community funding while preserving donor ownership, community allocation authority and non-extractive governance?",
       "review_status": "Primary issuer announcement and product page reviewed; independent operating outcomes and reported November AUM not verified in this review; CryptoProwl inaccessible",
       "research_note": "research-notes/donor-retained-capital-community-directed-yield.md"
+    },
+    {
+      "id": "BDF-DEFI-MONETARY-2026",
+      "author": "Andrea Barbon, Jean Barthélemy and Benoît Nguyen / Banque de France",
+      "title": "DeFi-ying the Fed? Monetary Policy Transmission to Stablecoin Deposit Rates",
+      "year": "2026",
+      "publication_date": "2026-11-09",
+      "category": "Canadian Policy & Monetary Sovereignty",
+      "type": "Working Paper No. 1069 / empirical economic research and theoretical modelling",
+      "region": "United States / global USD stablecoin markets",
+      "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/defi-ying-fed-monetary-policy-transmission-stablecoin-deposit-rates",
+      "summary": "Using Aave v2/v3 Ethereum lending data for USDT, USDC and DAI through January 30, 2026, the authors find volatile and persistent spreads relative to conventional rates, including prolonged periods of lower DeFi rates. Monetary shocks can initially move DeFi rates opposite to policy rates; crypto leverage and barriers to arbitrage delay convergence. Longer-run convergence is found in the studied markets.",
+      "cti_relevance": "Critical evidence against assuming a persistent DeFi yield premium or monetary-policy independence. Tests the donor-retained capital hypothesis by separating the viability of recurring community income from the suitability of specific investment mechanisms. Does not directly test philanthropic funding or all DeFi protocols.",
+      "topics": [
+        "Donor-Retained Capital",
+        "Monetary Policy & Financial Infrastructure",
+        "Reference Architecture & Interoperability",
+        "Stablecoins & Payment Infrastructure"
+      ],
+      "research_question": "Can donor-retained capital meet community operating needs under variable net returns, adverse market conditions and external monetary policy exposure, compared with conventional investment alternatives?",
+      "review_status": "Official abstract and non-technical summary reviewed; full technical paper and replication not assessed; working paper, not evidence of CTI effectiveness",
+      "research_note": "research-notes/donor-retained-capital-community-directed-yield.md"
     }
   ]
 }
